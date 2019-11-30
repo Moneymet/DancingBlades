@@ -1,0 +1,12 @@
+{
+    "weapons": [
+        {
+            "name":"test weapon",
+            "description":"hits"
+        },
+        {
+            "name":"tester weapon",
+            "description":"hits too"
+        }
+    ]
+}
