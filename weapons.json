@@ -2,11 +2,31 @@
     "weapons": [
         {
             "name":"test weapon",
-            "description":"hits"
+            "description":"hits",
+            "basecost":100,
+            "basedamage":1,
+            "material":"testosterone",
+            "blood":true,
+            "lunges":true,
+            "throwable":true,
+            "pierces":false,
+            "phases":true,
+            "knockback":true,
+            "reloads":true
         },
         {
             "name":"tester weapon",
-            "description":"hits too"
+            "description":"hits too",
+            "basecost":150,
+            "basedamage":2,
+            "material":"testosterone",
+            "blood":false,
+            "lunges":true,
+            "throwable":false,
+            "pierces":true,
+            "phases":true,
+            "knockback":true,
+            "reloads":false
         }
     ]
 }
