@@ -1,10 +1,16 @@
 body{
-    background-color: rgb(190, 200, 219);
+    background-color: rgb(5, 4, 29);
+    color: rgb(160, 180, 200);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+td, th{
+    padding: 8px;
 }
 
 #page_title{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: rgb(5, 4, 29);
+    /*color: rgb(5, 4, 29);*/
 }
 
 #main_page{
