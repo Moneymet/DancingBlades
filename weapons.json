@@ -27,6 +27,34 @@
             "phases":true,
             "knockback":true,
             "reloads":false
+        },
+        {
+            "name":"Dagger",
+            "description":"Starting weapon for most characters.",
+            "basecost":1,
+            "basedamage":1,
+            "material":"Normal",
+            "blood":false,
+            "lunges":false,
+            "throwable":true,
+            "pierces":false,
+            "phases":false,
+            "knockback":false,
+            "reloads":false
+        },
+        {
+            "name":"Spear",
+            "description":"Starting weapon for most characters.",
+            "basecost":1,
+            "basedamage":1,
+            "material":"Normal",
+            "blood":false,
+            "lunges":false,
+            "throwable":true,
+            "pierces":false,
+            "phases":false,
+            "knockback":false,
+            "reloads":false
         }
     ]
 }
