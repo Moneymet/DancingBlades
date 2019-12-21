@@ -1,7 +1,6 @@
 import * as data from "./weapons.json";
 window.onload = () => {
     const weaponData = data.weapons;
-    console.log("e");
     const weaponTable = document.getElementById("weapon_table");
 
     weaponData.forEach((weapon) => {
