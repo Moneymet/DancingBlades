@@ -3,6 +3,7 @@ window.onload = () => {
     const weaponData = data.weapons;
     const weaponTable = document.getElementById("weapon_table");
 
+    // Fills in the weapon table with weapon data from JSON format.
     weaponData.forEach((weapon) => {
         const row = document.createElement("tr");
         const name = document.createElement("td");
